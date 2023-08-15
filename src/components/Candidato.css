@@ -1,0 +1,9 @@
+.usuario{
+    display: flex;
+align-items: center;
+padding: 10px 15px;
+border-radius: 4px;
+border: 1px dotted Oblack;
+box-sizing:border-box;
+width:49.5%;
+}
